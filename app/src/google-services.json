@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20127803248",
+    "firebase_url": "https://simplenotesapp-4b4f4.firebaseio.com",
+    "project_id": "simplenotesapp-4b4f4",
+    "storage_bucket": "simplenotesapp-4b4f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20127803248:android:43dd41d382d9cc0b",
+        "android_client_info": {
+          "package_name": "example.androidgrid.simplenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20127803248-93l3qvrgt5o1i5o106kkipmpltuvk15q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4mvpFc0WLOCIuh2F71XUtoYI3rYHNV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

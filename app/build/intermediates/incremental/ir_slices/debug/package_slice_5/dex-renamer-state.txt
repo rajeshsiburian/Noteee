@@ -1,0 +1,4 @@
+#Thu Nov 22 13:16:25 ICT 2018
+base.0=D\:\\College\\SEMESTER III [SAATNYA BERJUANG]\\Practice\\KL Programming Application of Mobile Device 1\\Note\\ham\\SimpleNotesApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
